@@ -43,6 +43,14 @@ This analysis was performed to aid in determining Pewlett Hackard's retiring emp
 
 * There are a total of 90,398 employees that are elligible for retirement.
 
+    > * 29,414 Senior Engineer
+    > * 28,254 Senior Staff
+    > * 14,222 Engineer
+    > * 12,243 Staff
+    > * 4,502 Technique Leader
+    > * 1,761 Assistant Engineer
+    > * 2 Manager
+
 * A large portion of these retiring employees are Senior Engineers and Senior Staff Members. 
 
 * There are 1,549 employees elligible to become mentors.
