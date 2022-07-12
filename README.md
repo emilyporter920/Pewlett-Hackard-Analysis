@@ -2,6 +2,8 @@
 
 ## Overview
 
+This analysis was performed to aid in determining Pewlett Hackard's retiring employees by title and how many employees are elligible to become mentors for new employees.
+
 ## Results
 
 * First a table was created that listed employees of Pewlett Hackard elligible for retirement, however, this table required some tweaking due to the duplicate entries of certain employees, for example, rows 2-3 contain the same employee.
@@ -44,8 +46,6 @@
 * A large portion of these retiring employees are Senior Engineers and Senior Staff Members. 
 
 * There are 1,549 employees elligible to become mentors.
-
-* Overall there are ____ spaces needing to be filled in response to the large retirement population leaving the company.
 
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
