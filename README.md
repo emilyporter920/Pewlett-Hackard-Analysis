@@ -61,4 +61,4 @@ This analysis was performed to aid in determining Pewlett Hackard's retiring emp
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
-* There are not enough retirement-ready employees at Pewlett Hackard able to combat the amount of retiring employees. However, utilization of mentorships will be beneficial to Pewlett Hackard to help ensure quality training of new employees. 
+* There are not enough retirement-ready employees at Pewlett Hackard able to mentor over 90,000 new employees. However, utilization of mentorships will be beneficial to Pewlett Hackard to help ensure quality training of new employees. 
